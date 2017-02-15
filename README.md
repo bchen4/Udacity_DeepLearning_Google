@@ -23,6 +23,9 @@ Compare to sigmoid function, two additional major benefits of ReLUs are sparsity
 
 2. The other benefit of ReLUs is sparsity. Sparsity arises when a≤0. The more such units that exist in a layer the more sparse the resulting representation. Sigmoids on the other hand are always likely to generate some non-zero value resulting in dense representations. Sparse representations seem to be more beneficial than dense representations.
 
+***Dropout*
+
+https://www.quora.com/How-does-the-dropout-method-work-in-deep-learning
 
 ###Further reading
 
