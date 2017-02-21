@@ -39,7 +39,7 @@ https://www.quora.com/How-does-the-dropout-method-work-in-deep-learning
 
 [Beginner's guide to CNN](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
 
-[A good example to understand tensorflow CNN](http://mourafiq.com/2016/08/10/playing-with-convolutions-in-tensorflow.html)
+[A good example to understand tensorflow CNN, also a good blog to follow](http://mourafiq.com/2016/08/10/playing-with-convolutions-in-tensorflow.html)
 
 [Standford DL and computer vision](http://cs231n.github.io/convolutional-networks/#overview)
 
