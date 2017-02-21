@@ -27,7 +27,7 @@ Compare to sigmoid function, two additional major benefits of ReLUs are sparsity
 
 https://www.quora.com/How-does-the-dropout-method-work-in-deep-learning
 
-###Further reading
+### Further reading
 
 **Compare two images**
 [Very detailed tech from StackOverflow](http://stackoverflow.com/questions/189943/how-can-i-quantify-difference-between-two-images)
@@ -35,5 +35,14 @@ https://www.quora.com/How-does-the-dropout-method-work-in-deep-learning
 **Intercept of logistic regerssion**
 [About interpretation about fit intercept or not](http://stats.stackexchange.com/questions/131456/confused-about-0-intercept-in-logistic-regression-in-r)
 
-###Assignment 1
+**CNN**
+
+[Beginner's guide to CNN](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
+
+[A good example to understand tensorflow CNN](http://mourafiq.com/2016/08/10/playing-with-convolutions-in-tensorflow.html)
+
+[Standford DL and computer vision](http://cs231n.github.io/convolutional-networks/#overview)
+
+[NN and DL ebook](http://neuralnetworksanddeeplearning.com/)
+
 
